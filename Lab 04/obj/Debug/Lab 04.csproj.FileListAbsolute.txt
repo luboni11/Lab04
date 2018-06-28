@@ -1,0 +1,7 @@
+C:\Users\lumar\Desktop\ULACIT\4 Cuatrimestre\Diseño de aplicaciones de software\Lab04\Lab 04\bin\Debug\Lab 04.exe.config
+C:\Users\lumar\Desktop\ULACIT\4 Cuatrimestre\Diseño de aplicaciones de software\Lab04\Lab 04\bin\Debug\Lab 04.exe
+C:\Users\lumar\Desktop\ULACIT\4 Cuatrimestre\Diseño de aplicaciones de software\Lab04\Lab 04\bin\Debug\Lab 04.pdb
+C:\Users\lumar\Desktop\ULACIT\4 Cuatrimestre\Diseño de aplicaciones de software\Lab04\Lab 04\obj\Debug\Lab 04.csprojAssemblyReference.cache
+C:\Users\lumar\Desktop\ULACIT\4 Cuatrimestre\Diseño de aplicaciones de software\Lab04\Lab 04\obj\Debug\Lab 04.csproj.CoreCompileInputs.cache
+C:\Users\lumar\Desktop\ULACIT\4 Cuatrimestre\Diseño de aplicaciones de software\Lab04\Lab 04\obj\Debug\Lab 04.exe
+C:\Users\lumar\Desktop\ULACIT\4 Cuatrimestre\Diseño de aplicaciones de software\Lab04\Lab 04\obj\Debug\Lab 04.pdb
